@@ -61,9 +61,9 @@ The columns below are features selected for analyhsis and are broken down by sev
   - 'mean.': the mean that was estimated for each combination of levels 1-5 & 7  
   - 'stddev.': the standard deviation that was estimated for each combination of levels 1-5 & 7  
 
-. Level 7 (if applied) - 'x', 'y' OR 'z'
-  - The axis that was measured
-  - does not apply when level 5 is measured
+- Level 7 (if applied) - 'x', 'y' OR 'z'
+  -- The axis that was measured
+  -- does not apply when level 5 is measured
 
 "time.body.accelerometer.mean.x"
 "time.body.accelerometer.mean.y"                         

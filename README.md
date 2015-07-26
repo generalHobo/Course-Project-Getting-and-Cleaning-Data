@@ -29,7 +29,7 @@ To run the course project
 ===========================================
 Assumptions
 ===========================================
-. Does not require raw data to exist ahead of time, if it does not exist it will be downloaded and extracted 
-. Built on windows based OS, might not work for Mac
-. Requires library - data.table be installed | (minimum version 1.9.5) from GitHub <https://github.com/Rdatatable/data.table/wiki/Installation>
-. Requires library - dplyr be installed
+- Does not require raw data to exist ahead of time, if it does not exist it will be downloaded and extracted 
+- Built on windows based OS, might not work for Mac
+- Requires library - data.table be installed | (minimum version 1.9.5) from GitHub <https://github.com/Rdatatable/data.table/wiki/Installation>
+- Requires library - dplyr be installed
