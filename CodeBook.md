@@ -39,25 +39,25 @@ Variables
       LAYING
       
 The columns below are features selected for analyhsis and are broken down by sevaral levels:
-. Level 1 - 'time' OR 'frequency'
+- Level 1 - 'time' OR 'frequency'
   - 'time.': time domains that were captured at a consistent rate of 50 Hz. Applies to features from the accelerometer and gyroscope
   - 'frequency.': features withe frequency doman signals, that is where a Fast Fourier Transformation was applied
 
-. Level 2 - 'body' OR 'gravity'
+- Level 2 - 'body' OR 'gravity'
   - 'body.': indicates the body signal when the acceleration or gyroscope signals was used (a further level of refinement)
   - 'gravity.': indicates the body signal when ONLY the acceleration signal was used (a further level of refinement)
 
-. Level 3 - 'accelerometer' OR 'gyroscope'
+- Level 3 - 'accelerometer' OR 'gyroscope'
   - 'accelerometer.': indicates the base raw signal type 
   - 'gyroscope.': indicates the base raw signal type (using a 3-axle gyroscope)
   
-. Level 4 (if applied) - 'jerk' 
+- Level 4 (if applied) - 'jerk' 
   - 'jerk.': when body linear acceleration and angular velocity where used
 
-. Level 5 (if applied) - 'magnitude' 
+- Level 5 (if applied) - 'magnitude' 
   - 'magnitude.': magnitude of the three-dimensional signals calculated using the Euclidean norm
 
-. Level 6 - 'mean' OR 'stddev'
+- Level 6 - 'mean' OR 'stddev'
   - 'mean.': the mean that was estimated for each combination of levels 1-5 & 7  
   - 'stddev.': the standard deviation that was estimated for each combination of levels 1-5 & 7  
 
