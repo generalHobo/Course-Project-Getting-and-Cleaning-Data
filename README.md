@@ -1,6 +1,6 @@
-title: "Getting & Cleaning Data - Class Project"
-author: "David Morton"
-date: "July 26, 2015"
+- title: "Getting & Cleaning Data - Class Project"
+- author: "David Morton"
+- date: "July 26, 2015"
 
 
 ===========================================

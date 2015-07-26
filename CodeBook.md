@@ -1,6 +1,6 @@
-title: "Code Book"
-author: "David Morton"
-date: "July 26, 2015"
+- title: "Code Book"
+- author: "David Morton"
+- date: "July 26, 2015"
 
 
 ===========================================
