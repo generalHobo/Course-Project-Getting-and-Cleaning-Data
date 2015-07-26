@@ -2,18 +2,6 @@
 - author: "David Morton"
 - date: "July 26, 2015"
 
-
-===========================================
-Transformations
-===========================================
-1. Created complete datasets for each training and testing by combining the labels, sets, and subjects for each
-2. Brought the test and training sets together in one unified dataset
-3. Filtered out the data that was not a straight mean or standard deviation
-4. Applied human readable names for the activities
-5. Applied human readable names for the variables
-6. Grouped the dataset by subject who participated and their activity
-7. Summarized each of the variables getting the mean for the groupings (e.g. subject 1, SITTING)
-
 ===========================================
 Raw Data
 ===========================================
