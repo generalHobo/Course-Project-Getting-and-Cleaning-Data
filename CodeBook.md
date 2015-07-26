@@ -27,16 +27,16 @@ Variables
 ===========================================
 
 "subject_id"
-    The subject who performed the activity for each window sample. Its range is from 1 to 30.
+    - The subject who performed the activity for each window sample. Its range is from 1 to 30.
     
 "activity"
-    Acitvity Name - one of 6 values
-      WALKING
-      WALKING_UPSTAIRS
-      WALKING_DOWNSTAIRS
-      SITTING
-      STANDING
-      LAYING
+    - Acitvity Name - one of 6 values
+      - WALKING
+      - WALKING_UPSTAIRS
+      - WALKING_DOWNSTAIRS
+      - SITTING
+      - STANDING
+      - LAYING
       
 The columns below are features selected for analyhsis and are broken down by sevaral levels:
 - Level 1 - 'time' OR 'frequency'
